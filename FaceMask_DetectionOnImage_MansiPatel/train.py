@@ -1,10 +1,4 @@
-'''
-PyPower Projects
-Mask Detection Using Machine Learning
-'''
 
-# USAGE
-# python train.py -d dataset -p plot.png -m model.h5
 
 # import the necessary packages
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
